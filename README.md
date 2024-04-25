@@ -50,4 +50,3 @@ Las normas internacionales de contabilidad son un conjunto de estándares contab
 
 
 
-
