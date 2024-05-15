@@ -47,6 +47,32 @@
 [NIIF-11-Acuerdos conjuntos.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279691/NIIF-11-Acuerdos.conjuntos.pdf)
 [NIIF-12-Información a Revelar sobre Participaciones en Otras.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279694/NIIF-12-Informacion.a.Revelar.sobre.Participaciones.en.Otras.pdf)
 [NIIF-13-Medicion al valor razonable.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279698/NIIF-13-Medicion.al.valor.razonable.pdf)
+[CINIIF-1-Cambios en Pasivos Existentes por Retiro de Servicio,.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15324897/CINIIF-1-Cambios.en.Pasivos.Existentes.por.Retiro.de.Servicio.pdf)
+[CINIIF-2-Aportaciones de Socios de Entidades Cooperativas e.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15324976/CINIIF-2-Aportaciones.de.Socios.de.Entidades.Cooperativas.e.pdf)
+[CINIIF-4-Determinación de si un Acuerdo contiene un.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15325099/CINIIF-4-Determinacion.de.si.un.Acuerdo.contiene.un.pdf)
+[CINIIF-5-Derechos por la Participación en Fondos para el Retiro.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15325149/CINIIF-5-Derechos.por.la.Participacion.en.Fondos.para.el.Retiro.pdf)
+[CINIIF-6-Obligaciones Surgidas de la Participación en Mercados.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15325239/CINIIF-6-Obligaciones.Surgidas.de.la.Participacion.en.Mercados.pdf)
+[CINIIF-7-Aplicación del Procedimiento de Reexpresión según la.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15325306/CINIIF-7-Aplicacion.del.Procedimiento.de.Reexpresion.segun.la.pdf)
+[CINIIF-10-Informacio financiera intermedia y deterioro de valor.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15325397/CINIIF-10-Informacio.financiera.intermedia.y.deterioro.de.valor.pdf)
+[CINIIF-12-Acuerdo de consecion de servicios.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15325583/CINIIF-12-Acuerdo.de.consecion.de.servicios.pdf)
+[CINIIF-13-Programa de fidelizacion de clientes.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326295/CINIIF-13-Programa.de.fidelizacion.de.clientes.pdf)
+[CINIIF-14-El Límite de un Activo por Beneficios.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326300/CINIIF-14-El.Limite.de.un.Activo.por.Beneficios.pdf)
+[CINIIF-15-Acuerdo para la construccion de inmuebles.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326329/CINIIF-15-Acuerdo.para.la.construccion.de.inmuebles.pdf)
+[CINIIF-16-Coberturas de una Inversión Neta en un Negocio en el.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326348/CINIIF-16-Coberturas.de.una.Inversion.Neta.en.un.Negocio.en.el.pdf)
+[CINIIF-17-Distribuciones, a los Propietarios, de Activos Distintos.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326349/CINIIF-17-Distribuciones.a.los.Propietarios.de.Activos.Distintos.pdf)
+[CINIIF-18-Transferencias de activos procedentes de clientes.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326459/CINIIF-18-Transferencias.de.activos.procedentes.de.clientes.pdf)
+[CINIIF-19-Cancelacion de pasivos financieros con instrumentos de patrimonio.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326463/CINIIF-19-Cancelacion.de.pasivos.financieros.con.instrumentos.de.patrimonio.pdf)
+[CINIIF-20-Costos de desmonte en la fase de produccion de una mina a cielo abierto.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326470/CINIIF-20-Costos.de.desmonte.en.la.fase.de.produccion.de.una.mina.a.cielo.abierto.pdf)
+[CINIIF-21-Gravamenes.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326472/CINIIF-21-Gravamenes.pdf)
+
+
+
+
+
+
+
+
+
 
 
 
