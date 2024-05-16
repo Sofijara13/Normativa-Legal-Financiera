@@ -64,6 +64,10 @@
 [CINIIF-19-Cancelacion de pasivos financieros con instrumentos de patrimonio.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326463/CINIIF-19-Cancelacion.de.pasivos.financieros.con.instrumentos.de.patrimonio.pdf)
 [CINIIF-20-Costos de desmonte en la fase de produccion de una mina a cielo abierto.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326470/CINIIF-20-Costos.de.desmonte.en.la.fase.de.produccion.de.una.mina.a.cielo.abierto.pdf)
 [CINIIF-21-Gravamenes.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15326472/CINIIF-21-Gravamenes.pdf)
+[conceptualframework_123.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15335561/conceptualframework_123.pdf)
+[conceptualframework_153.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15335564/conceptualframework_153.pdf)
+[glossary_152.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15335939/glossary_152.pdf)
+
 
 
 
