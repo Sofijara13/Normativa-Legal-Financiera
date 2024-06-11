@@ -188,6 +188,7 @@ LIBRO AZUL DE LAS NIIF
 [titlecopyright_196.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15472420/titlecopyright_196.pdf)
 LIBRO AZUL DE LAS NIIF 2018
 PARTE A
+
 PARTE B
 PARTE C
 TESIS
