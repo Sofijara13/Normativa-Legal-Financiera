@@ -369,15 +369,11 @@ PARTE C
 [titlecopyright_190.pdf](https://github.com/user-attachments/files/16021459/titlecopyright_190.pdf)
 TESIS
 [Evaluación del Sistema de Control Interno.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15473139/Evaluacion.del.Sistema.de.Control.Interno.pdf)
-Reglamentos, códigos y normas 
+Reglamentos, códigos, leyes y normas 
 [CODIGO_ORGANICO_DE_PLANIFICACION_Y_FINANZAS_PUBLICAS_COPFP[1].pdf](https://github.com/user-attachments/files/16020485/CODIGO_ORGANICO_DE_PLANIFICACION_Y_FINANZAS_PUBLICAS_COPFP.1.pdf)
 [LEY_ORGANICA_DE_LA_CONTRALORIA_GENERAL_DEL_ESTADO.pdf](https://github.com/user-attachments/files/16020488/LEY_ORGANICA_DE_LA_CONTRALORIA_GENERAL_DEL_ESTADO.pdf)
 [LEY_ORGANICA_DEL_SERVICIO_PUBLICO_DE_ENERGIA_ELECTRICA.pdf](https://github.com/user-attachments/files/16020490/LEY_ORGANICA_DEL_SERVICIO_PUBLICO_DE_ENERGIA_ELECTRICA.pdf)
 [REGLAMENTO_ADMINISTRACION_Y_CONTROL_DE_BIENES_DEL_SECTOR_PUBLICO.pdf](https://github.com/user-attachments/files/16020491/REGLAMENTO_ADMINISTRACION_Y_CONTROL_DE_BIENES_DEL_SECTOR_PUBLICO.pdf)
-
-
-
-
 
 
 
