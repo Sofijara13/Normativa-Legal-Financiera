@@ -1,3 +1,4 @@
+Normas Internacionales de Contabilidad
 [NIC-1-Presentacion de estados financieros.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279322/NIC-1-Presentacion.de.estados.financieros.pdf)
 [NIC-2-Inventarios.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279324/NIC-2-Inventarios.pdf)
 [NIC-7-Estado de flujo de efectivo.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279327/NIC-7-Estado.de.flujo.de.efectivo.pdf)
@@ -34,6 +35,7 @@
 [SIC-29-Acuerdos de Concesión de Servicios Información a.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279555/SIC-29-Acuerdos.de.Concesion.de.Servicios.Informacion.a.pdf)
 [SIC-31-Ingresos—Permutas de Servicios de Publicidad.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279556/SIC-31-Ingresos.Permutas.de.Servicios.de.Publicidad.pdf)
 [SIC-32-Activos Intangibles—Costos de Sitios Web.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279558/SIC-32-Activos.Intangibles.Costos.de.Sitios.Web.pdf)
+Normas Internacionales de Informacion Financiera
 [NIIF-1-Adopción por Primera vez de las Normas.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279663/NIIF-1-Adopcion.por.Primera.vez.de.las.Normas.pdf)
 [NIIF-2-Pagos basados en acciones.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279666/NIIF-2-Pagos.basados.en.acciones.pdf)
 [NIIF-3-Combinaciones de negocio.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15279669/NIIF-3-Combinaciones.de.negocio.pdf)
@@ -369,7 +371,7 @@ PARTE C
 [titlecopyright_190.pdf](https://github.com/user-attachments/files/16021459/titlecopyright_190.pdf)
 TESIS
 [Evaluación del Sistema de Control Interno.pdf](https://github.com/Sofijara13/Normativa-Legal-Financiera/files/15473139/Evaluacion.del.Sistema.de.Control.Interno.pdf)
-Reglamentos, códigos, leyes y normas 
+Reglamentos, Códigos y Leyes  
 [CODIGO_ORGANICO_DE_PLANIFICACION_Y_FINANZAS_PUBLICAS_COPFP[1].pdf](https://github.com/user-attachments/files/16020485/CODIGO_ORGANICO_DE_PLANIFICACION_Y_FINANZAS_PUBLICAS_COPFP.1.pdf)
 [LEY_ORGANICA_DE_LA_CONTRALORIA_GENERAL_DEL_ESTADO.pdf](https://github.com/user-attachments/files/16020488/LEY_ORGANICA_DE_LA_CONTRALORIA_GENERAL_DEL_ESTADO.pdf)
 [LEY_ORGANICA_DEL_SERVICIO_PUBLICO_DE_ENERGIA_ELECTRICA.pdf](https://github.com/user-attachments/files/16020490/LEY_ORGANICA_DEL_SERVICIO_PUBLICO_DE_ENERGIA_ELECTRICA.pdf)
